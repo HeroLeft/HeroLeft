@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>Привет, я — HeroLeft (StratAlchemy777) 🌌</h1>
+  <h1>Привет, я — HeroLeft (StrategyAlchemist) 🌌</h1>
   <p><i>Building robust, antifragile Web3 infrastructure & data indexers</i></p>
 </div>
 
 ```javascript
 const HeroLeft = {
-  alias:    "StratAlchemy777",
+  alias:    "StrategyAlchemist",
   focus:    ["DeFi Infrastructure", "Web3 Analytics", "Developer Tooling"],
   stack:    ["Python", "TypeScript", "Node.js", "Solidity"],
   building: ["Data Indexers", "API Integrations", "Autonomous Agents"],
