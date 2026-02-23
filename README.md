@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Привет, я — HeroLeft (StrategyAlchemist) 🌌</h1>
+  <h1>Привет, я — StrategyAlchemist 🌌</h1>
   <p><i>Building robust, antifragile Web3 infrastructure & data indexers</i></p>
 </div>
 
