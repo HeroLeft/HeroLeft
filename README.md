@@ -48,8 +48,8 @@ const HeroLeft = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeroLeft&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroLeft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HeroLeft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9&v=1" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroLeft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9&v=1" height="165" />
 </div>
 
 <div align="center">
