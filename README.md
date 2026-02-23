@@ -1,48 +1,31 @@
 <div align="center">
-
-<img src="./assets/gh-readme-header.png" width="160px" alt="HeroLeft"/>
-
-# 👑 HeroLeft · StratAlchemy777
-
-<a href="https://twitter.com/StratAlchemy">
-  <img src="https://img.shields.io/badge/Twitter-@StratAlchemy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://codesandbox.io/u/HeroLeft">
-  <img src="https://img.shields.io/badge/CodeSandbox-HeroLeft-151515?style=for-the-badge&logo=codesandbox&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=HeroLeft&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-
+  <h1>Привет, я — HeroLeft (StratAlchemy777) 🌌</h1>
+  <p><i>Building robust, antifragile Web3 infrastructure & data indexers</i></p>
 </div>
 
----
-
-## ⚡ About Me
-
-```ts
+```javascript
 const HeroLeft = {
   alias:    "StratAlchemy777",
-  focus:    ["DeFi", "Web3", "Automation", "On-chain Analytics"],
-  stack:    ["TypeScript", "JavaScript", "Node.js", "Solidity"],
-  building: ["Trading bots", "DeFi subgraphs", "Blockchain scripts"],
-  passion:  "Turning blockchain data into strategy",
+  focus:    ["DeFi Infrastructure", "Web3 Analytics", "Developer Tooling"],
+  stack:    ["Python", "TypeScript", "Node.js", "Solidity"],
+  building: ["Data Indexers", "API Integrations", "Autonomous Agents"],
+  passion:  "Turning on-chain chaos into structured, valuable data",
 };
-` ` `
+```
 
 ***
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Tools
 
 <div align="center">
-
-
-
-
-
-
-
-
-
-
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="Solidity" />
+  <br>
+  <img src="https://img.shields.io/badge/The%20Graph-181E3D?style=for-the-badge&logo=thegraph&logoColor=white" alt="The Graph" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ***
@@ -52,12 +35,11 @@ const HeroLeft = {
 <div align="center">
 
 | 🏗 Domain | 🔧 Tools & Protocols |
-|-----------|----------------------|
-| DEX Analytics | The Graph · Subgraphs · GraphQL |
-| Smart Contracts | Solidity · Hardhat · ethers.js |
-| Trading Automation | Custom bots · Node.js scripts |
-| On-chain Data | Blockchain explorers · RPC nodes |
-| DeFi Protocols | MetaMask · Uniswap · Aave · more |
+| :--- | :--- |
+| **Data Analytics** | The Graph · Subgraphs · GraphQL |
+| **Smart Contracts** | Solidity · Hardhat · ethers.js |
+| **Infrastructure** | API Integrations · Python scripts · Playwright |
+| **On-chain Ops** | Blockchain explorers · RPC nodes · Solana / EVM |
 
 </div>
 
@@ -66,16 +48,12 @@ const HeroLeft = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HeroLeft&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroLeft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9" height="165"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=HeroLeft&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroLeft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9" height="165" alt="Top Languages"/>
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=heroleft&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HeroLeft&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" alt="GitHub Streak"/>
 </div>
 
 ***
@@ -83,19 +61,15 @@ const HeroLeft = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HeroLeft/HeroLeft/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HeroLeft/HeroLeft/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HeroLeft/HeroLeft/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ***
 
 <div align="center">
-
-*"Code is the new alchemy — turning logic into value."*
-
+  <i>"Code is the new alchemy — turning logic into value."</i>
 </div>
