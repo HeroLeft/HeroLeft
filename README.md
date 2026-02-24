@@ -4,7 +4,7 @@
 </div>
 
 ```javascript
-const HeroLeft = {
+const StrategyAlchemist = {
   alias:    "StrategyAlchemist",
   focus:    ["DeFi Infrastructure", "Web3 Analytics", "Developer Tooling"],
   stack:    ["Python", "TypeScript", "Node.js", "Solidity"],
@@ -49,14 +49,14 @@ const HeroLeft = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeroLeft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9&cache_seconds=86400&v=3)](https://github.com/HeroLeft)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StrategyAlchemist&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9&cache_seconds=86400&v=3)](https://github.com/StrategyAlchemist)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeroLeft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9&cache_seconds=86400&v=3)](https://github.com/HeroLeft)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StrategyAlchemist&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9&cache_seconds=86400&v=3)](https://github.com/StrategyAlchemist)
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HeroLeft&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=StrategyAlchemist&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" alt="GitHub Streak"/>
 </div>
 
 ***
@@ -65,9 +65,9 @@ const HeroLeft = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HeroLeft/HeroLeft/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HeroLeft/HeroLeft/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/HeroLeft/HeroLeft/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StrategyAlchemist/StrategyAlchemist/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StrategyAlchemist/StrategyAlchemist/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/StrategyAlchemist/StrategyAlchemist/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
