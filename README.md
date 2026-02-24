@@ -48,14 +48,6 @@ const StrategyAlchemist = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StrategyAlchemist&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9&cache_seconds=86400&v=3)](https://github.com/StrategyAlchemist)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StrategyAlchemist&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9&cache_seconds=86400&v=3)](https://github.com/StrategyAlchemist)
-
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=StrategyAlchemist&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" alt="GitHub Streak"/>
 </div>
 
