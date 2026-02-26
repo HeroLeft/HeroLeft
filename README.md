@@ -4,6 +4,7 @@
 </div>
 
 
+```javascript
 const StrategyAlchemist = {
   alias:    "StrategyAlchemist",
   focus:    ["Prediction Markets", "Web3 Analytics", "AI Automation", "App Development"],
@@ -11,7 +12,7 @@ const StrategyAlchemist = {
   building: ["Arbitrage Bots", "AI-powered Agents", "Data Indexers", "Desktop Apps"],
   passion:  "Turning on-chain chaos and raw data into automated, profitable logic",
 };
-
+```
 
 
 ## 🛠 Tech Stack & Tools
